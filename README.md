@@ -1,4 +1,7 @@
-# Qt-DiagramScene-Enhanced
+# It was DiagramScene
+Shackles is flowwchart(block diagram) editor.
+It can build, save and load diagram 
+Now it have speak recognition for voice acting 
 Enhanced the existing Qt DiagramScene by adding some functions.
 
 Functions added: 
