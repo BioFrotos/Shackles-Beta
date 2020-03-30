@@ -1,0 +1,138 @@
+
+QToolBar#dd {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  color: white;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #9EEFE1 0%, #4830F0 51%, #9EEFE1 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+  transition: .5s;
+}
+
+
+
+QToolButton{
+background-color:#cdd7fb;/*#fffff;*/
+}
+
+QComboBox{
+background-color:#cdd7fb;
+}
+
+QMenuBar{
+background-color:#cdd7fb;
+}
+
+#toolb{
+background-color: #cdd7ff;
+border:1px solid blue;
+}
+
+#Ite1, #Ite2, #textb, #toolarea,#back{
+background-color: #cdd7ff;
+}
+
+/*QToolBox QLabel{ background-color: #003247;}*/
+
+QToolBox::tab{
+background-color: #6587d8;
+ text-align:center ;
+ background-position:center ;
+}
+
+QToolBar {
+background-color:#cdd7fb;
+border:none ;
+}
+
+MainWindow{
+background-color:#cdd7ff;
+}
+QWidget > QMenuBar {
+background-color: #ffffff;
+border:none;
+}
+
+*!QMenuBar{
+background-color: #737b8e;
+}
+
+#backgroundLayout{
+background-color: #737b8e;
+}
+
+
+ QMainWindow#MainWindow{
+  background-color: #fcfcfc;
+}
+QMainWindow#MainWindow .QToolBar#mainToolBar{
+  background-color: #000000;
+  min-width: 50px;
+}
+
+QMainWindow .QWidget#centralWidget .QPushButton{
+  background-color: transparent;
+}
+QMainWindow#MainWindow .QWidget#centralWidget .QPushButton:focus {
+border:none;
+outline:none;
+}
+
+QPushButton#folder:focus {
+  background-color: #c6c6c6;
+border:none;
+outline:none;
+}
+
+QPushButton#folder{
+  text-align:left;
+  text-indent: 1.5em;
+  background-color: transparent;
+  background-image:url(':/icons/sourse/icon/folder.png');
+  background-repeat:no-repeat;
+  background-position: left;
+  border: 0px;
+}
+
+QPushButton#folder:hover{
+  background-color: #dadada;
+
+  background-repeat:no-repeat;
+  background-position: left;
+  border: 0px;
+}
+
+
+
+
+
+QVBoxLayout#right{
+
+}
+
+QTextEdit#textW{
+  border:0px;
+  background-color: #fcfcfc;
+}
+
+
+QFrame#write{
+  background-color: #fcfcfc;
+}
+
+QFrame#info{
+  background-color: #fcfcfc;
+}
+
+
+QListView#listmessege{
+  border: 0px;
+}
+

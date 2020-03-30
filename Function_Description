@@ -1,0 +1,9 @@
+Functions added: 
+        Save         --------- Save the current file
+        Save As      --------- Save the current to another directory
+        Load         --------- Load a saved file
+        Copy         --------- Copy the selected item in main window
+        Cut          --------- Cut the selected item 
+        Paste        --------- Paste the copied or cut item to the main window
+        Group        --------- Create a grouped object including selected items
+        Ungroup      --------- Destroy a grouped object
